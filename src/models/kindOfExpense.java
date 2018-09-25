@@ -1,0 +1,5 @@
+package models;
+
+public enum kindOfExpense {
+	LEISURE, RENT, HOME_FOOD, RESTAURANT_FOOD, UTILITIES, INVESTMENT, SAVING, OTHER
+}
